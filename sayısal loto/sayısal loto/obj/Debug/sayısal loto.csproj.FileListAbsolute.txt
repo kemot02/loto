@@ -1,0 +1,11 @@
+C:\Users\KEMAL\source\repos\sayısal loto\sayısal loto\bin\Debug\sayısal loto.exe.config
+C:\Users\KEMAL\source\repos\sayısal loto\sayısal loto\bin\Debug\sayısal loto.exe
+C:\Users\KEMAL\source\repos\sayısal loto\sayısal loto\bin\Debug\sayısal loto.pdb
+C:\Users\KEMAL\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.csproj.AssemblyReference.cache
+C:\Users\KEMAL\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.csproj.SuggestedBindingRedirects.cache
+C:\Users\KEMAL\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal_loto.Form1.resources
+C:\Users\KEMAL\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal_loto.Properties.Resources.resources
+C:\Users\KEMAL\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.csproj.GenerateResource.cache
+C:\Users\KEMAL\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.csproj.CoreCompileInputs.cache
+C:\Users\KEMAL\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.exe
+C:\Users\KEMAL\source\repos\sayısal loto\sayısal loto\obj\Debug\sayısal loto.pdb
